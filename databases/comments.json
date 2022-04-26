@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "6267ac047a2b8b05584d5026"
+  },
+  "title": "Catch",
+  "content": "Ssstt, Lorem Ipsum dolor sit Amet",
+  "publish_date": {
+    "$date": {
+      "$numberLong": "1650961412913"
+    }
+  },
+  "article_id": "62679d7a6ef4ec414b44fe11",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6267aef6cf9a413afb44c641"
+  },
+  "title": "Gotcha",
+  "content": "Ssstt, Lorem Ipsum dolor sit Amet, 5555",
+  "publish_date": {
+    "$date": {
+      "$numberLong": "1650962166701"
+    }
+  },
+  "article_id": "62679d7a6ef4ec414b44fe11",
+  "__v": 0
+}]

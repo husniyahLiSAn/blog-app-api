@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "62679d7a6ef4ec414b44fe11"
+  },
+  "title": "What's the Object.entries() ?",
+  "content": "The Object.entries() method returns an array of a given object's own enumerable string-keyed property [key, value] pairs.",
+  "publish_date": {
+    "$date": {
+      "$numberLong": "1650957690534"
+    }
+  },
+  "__v": 0
+}]
